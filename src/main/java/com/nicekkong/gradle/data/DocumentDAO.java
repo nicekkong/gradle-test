@@ -10,7 +10,8 @@ import com.nicekkong.gradle.model.Document;
 import java.util.List;
 
 /**
- * Created by nicekkong on 2015. 12. 16..
+ * Created by nicekkong on 2015. 12. 16.
+ * test commit 입니다
  */
 public interface DocumentDAO {
     public List<Document> getAll();
